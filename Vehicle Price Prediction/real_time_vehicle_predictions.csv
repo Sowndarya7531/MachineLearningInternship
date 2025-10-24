@@ -1,0 +1,28 @@
+year,mileage,cylinders,doors,fuel,transmission,make,model,trim,body,drivetrain,Predicted_Price,Timestamp
+2022,8,8,2,Electric,Manual,GMC,Civic,Pursuit,SUV,All-wheel Drive,57941.17,2025-10-24 12:58:24
+2019,89,8,4,Diesel,Automatic,RAM,Yukon,Laredo,SUV,All-wheel Drive,65424.06,2025-10-24 12:58:26
+2020,1,4,4,Diesel,Automatic,Toyota,3500,Pursuit,SUV,Four-wheel Drive,55139.35,2025-10-24 12:58:28
+2024,80,8,4,Electric,Manual,Ford,Yukon,Laramie,Sedan,Four-wheel Drive,84788.07,2025-10-24 12:58:30
+2024,20,4,4,Gasoline,Manual,Honda,Mustang,Laramie,SUV,Four-wheel Drive,41775.54,2025-10-24 12:58:32
+2020,43,6,4,Diesel,Automatic,BMW,Yukon,Laramie,Sedan,All-wheel Drive,104752.17,2025-10-24 12:58:34
+2022,30,4,4,Gasoline,8-Speed Automatic,BMW,Camry,Laramie,Pickup Truck,Four-wheel Drive,66644.36,2025-10-24 12:58:37
+2019,22,8,2,Diesel,Automatic,Ford,Camry,Denali,Sedan,Four-wheel Drive,82534.39,2025-10-24 12:58:39
+2023,17,8,4,Electric,Manual,Honda,Camry,Series II,Pickup Truck,All-wheel Drive,70943.91,2025-10-24 12:58:41
+2020,46,6,4,Gasoline,Automatic,Honda,Wagoneer,Laramie,Sedan,Four-wheel Drive,64019.86,2025-10-24 12:58:43
+2024,47,6,2,Gasoline,8-Speed Automatic,Honda,3500,Laredo,SUV,All-wheel Drive,44381.5,2025-10-24 12:58:45
+2024,0,6,4,Gasoline,8-Speed Automatic,Honda,Yukon,Laramie,Pickup Truck,Four-wheel Drive,60325.89,2025-10-24 12:58:47
+2020,42,8,4,Diesel,Automatic,BMW,Wagoneer,Laramie,Pickup Truck,All-wheel Drive,102512.66,2025-10-24 12:58:49
+2020,56,4,2,Diesel,8-Speed Automatic,Tesla,3500,Pursuit,Pickup Truck,Four-wheel Drive,64348.2,2025-10-24 12:58:51
+2021,8,8,4,Gasoline,Manual,BMW,Wagoneer,Pursuit,SUV,All-wheel Drive,87654.48,2025-10-24 12:58:53
+2020,75,4,4,Electric,Manual,Toyota,Camry,Laredo,SUV,Four-wheel Drive,48225.43,2025-10-24 12:58:55
+2023,10,8,2,Gasoline,8-Speed Automatic,RAM,Wagoneer,Pursuit,Sedan,All-wheel Drive,55122.92,2025-10-24 12:58:57
+2020,14,6,2,Electric,Automatic,Honda,Wagoneer,Laramie,Sedan,Four-wheel Drive,75923.23,2025-10-24 12:58:59
+2019,39,8,2,Gasoline,Manual,Honda,Yukon,Laredo,Pickup Truck,Four-wheel Drive,47857.34,2025-10-24 12:59:01
+2022,59,8,2,Gasoline,Automatic,GMC,Wagoneer,Pursuit,Sedan,All-wheel Drive,51355.08,2025-10-24 12:59:03
+2022,9,4,4,Gasoline,Automatic,Honda,Mustang,Laredo,Sedan,All-wheel Drive,36057.47,2025-10-24 12:59:05
+2024,89,8,2,Gasoline,8-Speed Automatic,Jeep,3500,Pursuit,Pickup Truck,Four-wheel Drive,57039.86,2025-10-24 12:59:07
+2020,66,6,4,Diesel,Automatic,Toyota,Mustang,Laramie,Pickup Truck,Four-wheel Drive,81152.55,2025-10-24 12:59:09
+2019,86,4,2,Gasoline,8-Speed Automatic,RAM,Wagoneer,Laramie,Sedan,Four-wheel Drive,50413.59,2025-10-24 12:59:11
+2022,5,6,4,Electric,Automatic,RAM,Civic,Series II,Sedan,All-wheel Drive,71554.74,2025-10-24 12:59:13
+2022,72,8,2,Gasoline,Automatic,Jeep,Durango,Denali,Sedan,All-wheel Drive,60305.57,2025-10-24 12:59:15
+2020,16,4,4,Diesel,Manual,Toyota,Camry,Pursuit,SUV,Four-wheel Drive,54645.55,2025-10-24 12:59:17
